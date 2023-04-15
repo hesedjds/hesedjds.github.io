@@ -34,7 +34,7 @@ Awards
 Teaching & Advising 
 ======
 - **Teaching assistant (TA) for undergraduate course**
-  - Object-Oriented Programming (OOP), Mar. 2017 - Aug. 2017
+  - <p style="float:left;">Object-Oriented Programming (OOP) <span style="float:right;">Mar. 2017 - Aug. 2017</span></p>
   - Automata and Formal Language, Sep. 2017 - Dec. 2017
   - Automata and Formal Language, Sep. 2018 - Dec. 2018
 - **TA for Industry Oriented Course**
