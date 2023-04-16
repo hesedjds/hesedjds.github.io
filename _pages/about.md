@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in the Department of Copmuter Science and Technology at Pohang University of Science and Technology (POSTECH). I am a emmber of [Computer Vision Lab](http://cvlab.postech.ac.kr/lab) under the supervision of professor [Minsu Cho](https://cvlab.postech.ac.kr/~mcho). My research interest is in computer vision and deep learning, especially scene graph generation and graph neural networks for computer vision. 
+I am a Ph.D. student in the Department of Copmuter Science and Technology at Pohang University of Science and Technology (POSTECH). I am a member of [Computer Vision Lab](http://cvlab.postech.ac.kr/lab) under the supervision of professor [Minsu Cho](https://cvlab.postech.ac.kr/~mcho). My research interest is in computer vision and deep learning, especially scene graph generation and graph neural networks for computer vision. 
 
 News
 ======
