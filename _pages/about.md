@@ -17,10 +17,10 @@ News
 
 Publication
 ======
-- **Devil's on the Edges: Selective Quad Attention for Scene Graph Generation** <br> <ins>**Deunsol Jung**</ins>, Sanghyun Kim, Won Hwa Kim, Minsu Cho, accepted to CVPR 2023 <br> [[paper]](https://arxiv.org/abs/2304.03495) [[project page]](https://cvlab.postech.ac.kr/research/SQUAT) [[github]](https://github.com/hesedjds/squat) 
-- **Relational Context Learning for Human-Object Interaction Detection** <br> Sanghyun Kim, <ins>**Deunsol Jung**</ins>, Minsu Cho, accepted to CVPR 2023 <br> [[paper]](https://arxiv.org/abs/2304.04997) [[project page]](http://cvlab.postech.ac.kr/research/MUREN/) [[github]](https://github.com/OreoChocolate/MUREN)
-- **Few-shot Metric Learning: Online Adaptation of Embedding for Retrieval** <br> <ins>**Deunsol Jung**</ins>, Dahyun Kang, Suha Kwak, Minsu Cho, ACCV 2022 <br> [[paper]](https://arxiv.org/abs/2211.07116) [[github]](https://github.com/hesedjds/FSML)
-- **Attentive Semantic Alignment with Offset-Aware Correlation Kernels** <br> Paul Hongsuck Seo, Jongmin Lee, <ins>**Deunsol Jung**</ins>, Bohyung Han, Minsu Cho, ECCV 2018 <br> [[paper]](https://arxiv.org/abs/1808.02128) [[github]](https://github.com/bluedream1121/A2Net)
+- **Devil's on the Edges: Selective Quad Attention for Scene Graph Generation** <br> <ins>Deunsol Jung</ins>, Sanghyun Kim, Won Hwa Kim, Minsu Cho, accepted to CVPR 2023 <br> [[paper]](https://arxiv.org/abs/2304.03495) [[project page]](https://cvlab.postech.ac.kr/research/SQUAT) [[github]](https://github.com/hesedjds/squat) 
+- **Relational Context Learning for Human-Object Interaction Detection** <br> Sanghyun Kim, <ins>Deunsol Jung</ins>, Minsu Cho, accepted to CVPR 2023 <br> [[paper]](https://arxiv.org/abs/2304.04997) [[project page]](http://cvlab.postech.ac.kr/research/MUREN/) [[github]](https://github.com/OreoChocolate/MUREN)
+- **Few-shot Metric Learning: Online Adaptation of Embedding for Retrieval** <br> <ins>Deunsol Jung</ins>, Dahyun Kang, Suha Kwak, Minsu Cho, ACCV 2022 <br> [[paper]](https://arxiv.org/abs/2211.07116) [[github]](https://github.com/hesedjds/FSML)
+- **Attentive Semantic Alignment with Offset-Aware Correlation Kernels** <br> Paul Hongsuck Seo, Jongmin Lee, <ins>Deunsol Jung</ins>, Bohyung Han, Minsu Cho, ECCV 2018 <br> [[paper]](https://arxiv.org/abs/1808.02128) [[github]](https://github.com/bluedream1121/A2Net)
 
 Education 
 ======
