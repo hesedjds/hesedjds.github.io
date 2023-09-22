@@ -11,14 +11,16 @@ I am a Ph.D. student in the Department of Copmuter Science and Technology at Poh
 
 News
 ======
+- **[Sep. 2023]** A paper about neural symbolic methods for temporal action segmentation is accepted to NeurIPS 2023.
 - **[Feb. 2023]** Two papers are accepted to CVPR 2023. 
 - **[Mar. 2022]** A paper about few-shot metric learning is accepted to ACCV 2022. 
 - **[Sep. 2018]** A paper about semantic correspondence is accepted to ECCV 2018. 
 
 Publication
 ======
-- **Devil's on the Edges: Selective Quad Attention for Scene Graph Generation** <br> <ins>Deunsol Jung</ins>, Sanghyun Kim, Won Hwa Kim, Minsu Cho, accepted to CVPR 2023 <br> [[paper]](https://arxiv.org/abs/2304.03495) [[project page]](https://cvlab.postech.ac.kr/research/SQUAT) [[github]](https://github.com/hesedjds/squat) 
-- **Relational Context Learning for Human-Object Interaction Detection** <br> Sanghyun Kim, <ins>Deunsol Jung</ins>, Minsu Cho, accepted to CVPR 2023 <br> [[paper]](https://arxiv.org/abs/2304.04997) [[project page]](http://cvlab.postech.ac.kr/research/MUREN/) [[github]](https://github.com/OreoChocolate/MUREN)
+- **Activity Grammars for Temporal Action Segmentation** <br> Dayoung Gong*, Joonseok Lee*, <ins>Deunsol Jung</ins>, Suha Kwak, Minsu Cho, accepted to NeurIPS 2023 <br> [[TBA]](https://hesedjds.github.io)
+- **Devil's on the Edges: Selective Quad Attention for Scene Graph Generation** <br> <ins>Deunsol Jung</ins>, Sanghyun Kim, Won Hwa Kim, Minsu Cho, CVPR 2023 <br> [[paper]](https://arxiv.org/abs/2304.03495) [[project page]](https://cvlab.postech.ac.kr/research/SQUAT) [[github]](https://github.com/hesedjds/squat) 
+- **Relational Context Learning for Human-Object Interaction Detection** <br> Sanghyun Kim, <ins>Deunsol Jung</ins>, Minsu Cho, CVPR 2023 <br> [[paper]](https://arxiv.org/abs/2304.04997) [[project page]](http://cvlab.postech.ac.kr/research/MUREN/) [[github]](https://github.com/OreoChocolate/MUREN)
 - **Few-shot Metric Learning: Online Adaptation of Embedding for Retrieval** <br> <ins>Deunsol Jung</ins>, Dahyun Kang, Suha Kwak, Minsu Cho, ACCV 2022 <br> [[paper]](https://arxiv.org/abs/2211.07116) [[github]](https://github.com/hesedjds/FSML)
 - **Attentive Semantic Alignment with Offset-Aware Correlation Kernels** <br> Paul Hongsuck Seo, Jongmin Lee, <ins>Deunsol Jung</ins>, Bohyung Han, Minsu Cho, ECCV 2018 <br> [[paper]](https://arxiv.org/abs/1808.02128) [[github]](https://github.com/bluedream1121/A2Net)
 
@@ -44,7 +46,7 @@ Teaching & Advising
   - Machine learning expert training course for Samsung DS, May. 2017 - Jun. 2017 
     - Introduction to the Python Programming
     - Computer Vision
-  - AI programming for job seeker, Sep. 2017 
+  - AI programming for the job seeker, Sep. 2017 
     - Introduction to the Python Programming
   - AI industry professional training for Gyeongsangbuk-Do, Dec. 2017 
     - Computer Vision
