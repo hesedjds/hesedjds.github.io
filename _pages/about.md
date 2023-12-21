@@ -18,7 +18,7 @@ News
 
 Publication
 ======
-- **Activity Grammars for Temporal Action Segmentation** <br> Dayoung Gong\*, Joonseok Lee\*, <ins>Deunsol Jung</ins>, Suha Kwak, Minsu Cho, NeurIPS 2023 (\* Equal contributions) <br> [[paper]](https://arxiv.org/abs/2312.04266) [[project page]](http://cvlab.postech.ac.kr/research/KARI) [[github (TBA)]](https://hesedjds.github.io) 
+- **Activity Grammars for Temporal Action Segmentation** <br> Dayoung Gong\*, Joonseok Lee\*, <ins>Deunsol Jung</ins>, Suha Kwak, Minsu Cho, NeurIPS 2023 (\* Equal contributions) <br> [[paper]](https://arxiv.org/abs/2312.04266) [[project page]](http://cvlab.postech.ac.kr/research/KARI) [[github]](https://github.com/gongda0e/KARI) 
 - **Devil's on the Edges: Selective Quad Attention for Scene Graph Generation** <br> <ins>Deunsol Jung</ins>, Sanghyun Kim, Won Hwa Kim, Minsu Cho, CVPR 2023 <br> [[paper]](https://arxiv.org/abs/2304.03495) [[project page]](https://cvlab.postech.ac.kr/research/SQUAT) [[github]](https://github.com/hesedjds/squat) 
 - **Relational Context Learning for Human-Object Interaction Detection** <br> Sanghyun Kim, <ins>Deunsol Jung</ins>, Minsu Cho, CVPR 2023 <br> [[paper]](https://arxiv.org/abs/2304.04997) [[project page]](http://cvlab.postech.ac.kr/research/MUREN/) [[github]](https://github.com/OreoChocolate/MUREN)
 - **Few-shot Metric Learning: Online Adaptation of Embedding for Retrieval** <br> <ins>Deunsol Jung</ins>, Dahyun Kang, Suha Kwak, Minsu Cho, ACCV 2022 <br> [[paper]](https://arxiv.org/abs/2211.07116) [[github]](https://github.com/hesedjds/FSML)
