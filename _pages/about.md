@@ -7,16 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I completed my Ph.D. in 2024, under the supervision of [Minsu Cho](https://cvlab.postech.ac.kr/~mcho) at Pohang University of Science and Technology ([POSTECH](https://postech.ac.kr)) [Computer Vision Lab.](https://cvlab.postech.ac.kr/lab), Pohang, Korea. My research interest is in computer vision and deep learning, especially scene graph generation and graph neural networks for computer vision. 
+I am a postdoctoral researcher in Department of Computer Science and Engineering at Pohang University of Science and Technology ([POSTECH](https://postech.ac.kr)) and a member of the [Computer Vision Lab.](https://cvlab.postech.ac.kr/lab). I completed my Ph.D. in 2024, under the supervision of [Minsu Cho](https://cvlab.postech.ac.kr/~mcho) at POSTECH, Pohang, Korea. My research interest is computer vision and deep learning, especially scene graph generation and neuro-symbolic learning. 
 
 News
 ======
-- **[Aug. 2023]** I am glad to announce that I successfully defended my Ph.D. dissertation, "Scene Understaning with Contextual Reasoning via Message Passing."
+- **[Sep. 2024]** I have started a new role as a Postdoctoral reseracher at POTSECH, working with Prof. Minsu Cho.
+- **[Aug. 2024]** I am glad to announce that I successfully defended my Ph.D. dissertation, "Scene Understaning with Contextual Reasoning via Message Passing."
 - **[Jun. 2024]** A paper about burst-image enhencement is accepted to NTIRE workshop at CVPR 2024. 
 - **[Sep. 2023]** A paper about neural symbolic methods for temporal action segmentation is accepted to NeurIPS 2023.
 - **[Feb. 2023]** Two papers are accepted to CVPR 2023. 
 - **[Mar. 2022]** A paper about few-shot metric learning is accepted to ACCV 2022. 
 - **[Sep. 2018]** A paper about semantic correspondence is accepted to ECCV 2018. 
+
+Working Experience
+======
+- Postdoctoral researcher at [Pohang University on Science and Technology](https://postech.ac.kr), Pohang, Republic of Korea <br> Department of Computer Science and Engineering <br> working with Prof. [Minsu Cho](https://cvlab.postech.ac.kr/~mcho) <br> Research focus: scene graph generation, neuro-symbolic learning
 
 Publication
 ======
