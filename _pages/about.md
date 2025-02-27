@@ -11,6 +11,7 @@ I am a postdoctoral researcher in National AI Research Lab. at Korea Advanced In
 
 News
 ======
+- **[Feb. 2025]** A paper about zero-shot human-object interaction detection is accepted to CVPR 2025. 
 - **[Jan. 2025]** I have started a new role as a Postdoctoral researcher at National AI Research Lab. in KAIST. 
 - **[Sep. 2024]** I have started a new role as a Postdoctoral reseracher at POTSECH, working with Prof. Minsu Cho.
 - **[Aug. 2024]** I am glad to announce that I successfully defended my Ph.D. dissertation, "Scene Understaning with Contextual Reasoning via Message Passing."
@@ -27,6 +28,7 @@ Working Experience
 
 Publication
 ======
+- **Locality-Aware Interaction for Zero-Shot Human-Object Interaction Detection** <br> Sanghyun Kim, <ins>Deunsol Jung</ins>, Minsu Cho <br> To be appeared. 
 - **Scene Understanding with Contextual Reasoning via Message Passing** <br> <ins>Deunsol Jung</ins>, Ph.D. dissertation, Aug. 2024 <br> [[paper]](http://www.dcollection.net/handler/postech/200000807181)
 - **Burst Image Super-Resolution with Base Frame Selection** <br> Sanghyun Kim\*, Min Jung Lee\*, Woohyeok Kim, <ins>Deunsol Jung</ins>, Jaesung Rim, Sunghyun Cho, Minsu Cho, NTIRE Workshop@CVPR 2024 (\* Equal contributions) <br> [[paper]](https://arxiv.org/abs/2406.17869) [[project page]](https://postech-cvlab.github.io/Burst_FSN/)
 - **Activity Grammars for Temporal Action Segmentation** <br> Dayoung Gong\*, Joonseok Lee\*, <ins>Deunsol Jung</ins>, Suha Kwak, Minsu Cho, NeurIPS 2023 (\* Equal contributions) <br> [[paper]](https://arxiv.org/abs/2312.04266) [[project page]](http://cvlab.postech.ac.kr/research/KARI) [[github]](https://github.com/gongda0e/KARI) 
