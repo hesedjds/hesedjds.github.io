@@ -7,10 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral researcher in National AI Research Lab. at Korea Advanced Institute of Science and Technology ([KAIST](https://www.kaist.ac.kr/)). I completed my Ph.D. in 2024, under the supervision of [Minsu Cho](https://cvlab.postech.ac.kr/~mcho) at POSTECH, Pohang, Korea. My research interest is computer vision and deep learning, especially scene graph generation and neuro-symbolic learning. 
+I am an Assistant Professor in the [School of Computer Science and Engineering](https://cse.knu.ac.kr) at Kyungpook National University ([KNU](https://knu.ac.kr)). My research interest is computer vision and deep learning, especially in the problems of relational reasoning, such as scene graph generation and human-object interaction detection, and neuro-symbolic learning. 
+
+Before joining KNU in the fall of 2025, I was a postdoctoral researcher in National AI Research Lab. ([NAIRL](https://nairl.kr/))  at [KAIST](https://www.kaist.ac.kr/) and Department of Computer Science and Engineering at [POSTECH](https://www.postech.ac.kr), working with prof. [Minsu Cho](https://cvlab.postech.ac.kr/~mcho). I completed my Ph.D. in 2024, under the supervision of Minsu Cho at POSTECH, Pohang, Korea.
 
 News
 ======
+- **[Sep. 2025]** I’m really happy to share that I’ve been appointed as an Assistant Professor in the School of Computer Science and Engineering at Kyungpook National University (KNU). I will open the lab website in a few weeks.
 - **[Feb. 2025]** A paper about zero-shot human-object interaction detection is accepted to CVPR 2025. 
 - **[Jan. 2025]** I have started a new role as a Postdoctoral researcher at National AI Research Lab. in KAIST. 
 - **[Sep. 2024]** I have started a new role as a Postdoctoral reseracher at POTSECH, working with Prof. Minsu Cho.
@@ -23,7 +26,8 @@ News
 
 Working Experience
 ======
-- Postdoctoral researcher at [KAIST](https://www.kaist.ac.kr), Seoul, Republic of Korea <br> National AI Research Lab. <br> Research focus: scene graph generation, neuro-symbolic learning <br> working with Prof. [Minsu Cho](https://cvlab.postech.ac.kr/~mcho) <br> Jan. 2025 - Current 
+- Assistant professor at [KNU](https://www.knu.ac.kr), Daegu, Republic of Korea <br> School of Computer Science and Engineering <br> College of IT Engineering <br> Sep. 2025 - Current
+- Postdoctoral researcher at [KAIST](https://www.kaist.ac.kr), Seoul, Republic of Korea <br> National AI Research Lab. <br> Research focus: scene graph generation, neuro-symbolic learning <br> working with Prof. [Minsu Cho](https://cvlab.postech.ac.kr/~mcho) <br> Jan. 2025 - Aug. 2025
 - Postdoctoral researcher at [POSTECH](https://postech.ac.kr), Pohang, Republic of Korea <br> Department of Computer Science and Engineering <br> worked with Prof. [Minsu Cho](https://cvlab.postech.ac.kr/~mcho) <br> Research focus: scene graph generation, neuro-symbolic learning <br> Sep. 2024 - Dec. 2024
 
 Publication
